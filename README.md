@@ -10,8 +10,6 @@ Para facilitar la revisión del código y observar las gráficas interactivas en
 
 [![Open In Colab](https://colab.research.google.com/drive/14Q3X64nWOoJtYCWXPdEMMdH1G0kSIdtV?usp=sharing)
 
-> ⚠️ **Nota:** Asegúrate de reemplazar `COLOCAR_AQUI_TU_LINK_DE_COLAB` con el enlace real de tu cuaderno compartido en Colab dentro del archivo `README.md`.
-
 ---
 
 ## 🏫 Información Institucional
