@@ -78,5 +78,5 @@ Si deseas clonar el repositorio y correr el proyecto en tu máquina local de for
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone https://github.com/xJhony911/Practica2-FOURIER-T
    cd TU_REPOSITORIO
