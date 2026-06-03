@@ -8,8 +8,7 @@ Este repositorio contiene la solución computacional y el informe teórico-prác
 
 Para facilitar la revisión del código y observar las gráficas interactivas en tiempo real sin necesidad de realizar una instalación local, puedes ejecutar el entorno interactivo directamente en Google Colab haciendo clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/14Q3X64nWOoJtYCWXPdEMMdH1G0kSIdtV?usp=sharing)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14Q3X64nWOoJtYCWXPdEMMdH1G0kSIdtV?usp=sharing)
 ---
 
 ## 🏫 Información Institucional
